@@ -7,7 +7,6 @@ import acconting from "../../assets/accounting.jpg";
 import govt from "../../assets/govtregistra.jpg";
 import consult from "../../assets/counsultancy.jpg";
 import agreement from "../../assets/VAT.jpg";
-import Designservices from "../Designservices/Designservices";
 
 
 const Indiaservices = () => {
