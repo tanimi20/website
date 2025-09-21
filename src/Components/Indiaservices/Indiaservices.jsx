@@ -1,6 +1,5 @@
 import React from "react";
 import ServicesSection from "../ServicesSection/ServicesSection";
-import incroption from "../../assets/Incorporation.jpg";
 import Registration from "../../assets/registration.jpg";
 import income from "../../assets/incometax.jpg";
 import acconting from "../../assets/accounting.jpg";
@@ -14,7 +13,7 @@ const Indiaservices = () => {
     {
       title: "Incorporation Services",
       desc: "We help you incorporate different types of entities in India.",
-      img:incroption ,
+      img:income,
       items: [
         "Private Limited Company",
         "LLP",
